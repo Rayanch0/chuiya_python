@@ -12,3 +12,4 @@ elif time2>time1:
   print(f"The faster runner is {name2}")
 else:
   print(f"{name1} and {name2} have the same time")
+
