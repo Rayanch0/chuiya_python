@@ -4,4 +4,5 @@ number=people//fit
 if people%fit != 0:
   number=number+1
   print("ok")
-print(f"number of taxi needed {number}") 
+print(f"number of taxi needed {number}")
+print("config git")
