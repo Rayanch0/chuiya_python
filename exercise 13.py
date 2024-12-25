@@ -2,6 +2,5 @@ while True:
   string=str(input("Please type in a string: "))
   if string=='':
     break
-  print(string)
-  print("-" * len(string))
+  print(f"\033[4m{string}\033[0m")
   
